@@ -1,7 +1,0 @@
-﻿  Angajat.cpp
-  Manager.cpp
-  Generating Code...
-C:\Users\Hori\Downloads\Manager.cpp(4,10): error C2084: function 'Manager::Manager(double,int)' already has a body
-  C:\Users\Hori\Downloads\Manager.h(11,2):
-  see previous definition of '{ctor}'
-  
